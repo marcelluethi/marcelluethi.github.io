@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Marcel's Personal Page"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - teaching.qmd      
+      - research.qmd
+      - cv.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

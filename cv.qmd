@@ -1,0 +1,85 @@
+---
+title: "Resumé"
+---
+
+### Education
+
+ 
+**Jan. 2006 -- Mai 2010**   
+> **PhD Studies (summa cum laude)**, University of Basel, Switzerland  
+> Doctoral Thesis: *A Machine Learning Approach to Statistical Shape Models with Applications to Medical Image Analysis*  
+> Advisor: Prof. Thomas Vetter
+> Co-Referee: Prof. Bernhard Schölkopf
+
+**Aug. 2003 -- Feb. 2005**  
+> **Master of science in Engineering Mathematics (with Distinction)**  
+> Chalmers University of Technology, Gothenburg, Sweden
+> Master Thesis: *Prior-free Inference in a Probabilistic Model using Linear Programming*  
+> Advisor: Prof. Peter Damaschke
+
+**Feb. 2002 -- June 2003**  
+> **Exchange year**  
+> Dalarna University, Sweden  
+> Specialization in Intelligent Systems  
+
+**Oct. 1999 -- June 2003**  
+> **Bachelor studies**  
+> University of Applied Science, Bern
+> Diploma Thesis: *Automatic Language Identification of Written Text Using Neural Networks*  
+
+**Aug. 1994 -- July 1997**  
+> **Commercial Appranticeship**  
+> Kaufmännische Berufsmaturitätsschule, Weinfelden, Schweiz  
+
+### Employment
+
+
+**Jan 2024 -- Jan 2025**  
+> **Departement Mathematik und Informatik**  
+> Universität Basel, Schweiz  
+> Lecturer (20%)  
+
+**Mai 2021 -- Jan 2024**  
+> **Departement Mathematik und Informatik**  
+> Universität Basel, Schweiz  
+> Wissenschaftlicher Mitarbeiter (25%)  
+
+**Aug. 2016 -- Jan 2024**  
+> **Departement Mathematik und Informatik**  
+> Universität Basel, Schweiz  
+> Lecturer (75%)  
+
+**Jan. 2006 -- Juli 2016**  
+> **Graphics and Vision Research Group**  
+> Universität Basel, Schweiz  
+> Wissenschaftlicher Mitarbeiter, medizinische Bildanalyse  
+
+**März 2005 -- Dez. 2005**  
+> **Real Time Systems Lab**  
+> Linköping Universitet, Schweden  
+> Gastwissenschaftler - Ad-hoc networking  
+
+**Aug. 1997 -- Juli 2002**  
+> **E-Banking Services**  
+> UBS Zürich, Schweiz  
+> Anwendungsentwickler (80%)  
+
+**Aug. 1994 -- Juli 1997**  
+> **Filiale Müllheim**  
+> Thurgauer Kantonalbank, Schweiz  
+> Banklehre  
+
+
+### Board membership
+
+- Board member adn Co-Founder of [Shapemeans GmbH](https://shapemeans.com)
+
+### Awards and recognitions 
+
+- **Jul. 2021**  Shortlisted for the teaching excellence award, University of Basel
+
+### Commissions and working groups
+
+* **2023** Member of the Jury, Teaching excellence award
+* **2021-2022** Member of the curriculum commision, University of Basel
+* **2016-2024** Member of the Program Commitee - GymInf 
