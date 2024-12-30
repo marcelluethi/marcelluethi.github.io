@@ -21,7 +21,7 @@ about:
 
 I am a lecturer at the [Department of Computer Science](https://inf.ethz.ch/de/) at ETH Zurich. There are three core interests that have shaped my working career: How to to build better software, how to learn from data and how to use educational and computational tools to make learning engaging and active.
 
-My main research topic is the modelling of analysis of medical data using statistical shape modelling. I am one of the core developers of the open source software [Scalismo](https://www.scalismo.org) for shape and image analysis. I also helped to produce a [MOOC on Statistical Shape Modelling](https://www.futurelearn.com/courses/statistical-shape-modelling) and designed several 
+My main research topic is the modelling and analysis of medical shapes and images using statistical shape models. I am one of the core developers of the open source software [Scalismo](https://www.scalismo.org) for shape and image analysis. I also helped to produce a [MOOC on Statistical Shape Modelling](https://www.futurelearn.com/courses/statistical-shape-modelling) and designed several 
 other online courses. To help translate our research result into practical applications, I helped founding the company [shapemeans](https://shapemeans.com/).
 
 At ETH Zurich I am currently teaching an introductory programming courses, software engineering as well 
