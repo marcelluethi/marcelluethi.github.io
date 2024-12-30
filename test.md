@@ -1,8 +1,5 @@
----
-title: "Resumé"
----
-
 ### Education
+
  
 **Jan. 2006 - Mai 2010** | **PhD Studies**, University of Basel  
 
@@ -67,4 +64,4 @@ title: "Resumé"
 
 * **2023** Member of the Jury, Teaching excellence award
 * **2022-2023** Member of the curriculum commission, University of Basel
-* **2016-2025** Member of the Program Committee for [GymInf](https://www.unifr.ch/gyminf/de/) (Computer science education for highschool teachers)
+* **2016-2025** Member of the Program Committee - [GymInf](https://www.unifr.ch/gyminf/de/)

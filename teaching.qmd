@@ -11,7 +11,7 @@ As an educator, I would like to provide a course environment that encourages the
 students to actively explore and experiment with the material and to make the 
 barriers to experimentation as low as possible. 
 
-Being involved in all aspects of the course, not only designing the lessons but also engaging with students during the learning process, is crucial. Direct contact with the students is essential for understanding their needs, the difficulties 
+Being involved in all aspects of the course, not only designing the lessons, but also engaging with students during the learning process, is crucial. Direct contact with the students is essential for understanding their needs, the difficulties 
 they face and from which parts they draw most value. This is especially important in the currently, rapidly changing
 teaching environment. More direct contact also establishes trust between students and teachers, which 
 I find essential for a productive learning environment. 
@@ -25,13 +25,27 @@ and direct contact with students in focus.
 - Informatik I (with Andreas Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182735&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
 - Informatik II (with Manuela Fischer) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=188270&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
 - Software Engineering (with Hermann Lehner and Malte Schwerhoff) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=181757&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
-- Data Science and Machine Learning (With Andreas Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=190199&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
-- Datenanalyse in der Physik (With A. Eichler, M. Kroner, C. Cotrini) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178564&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+- Data Science and Machine Learning (with Andreas Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=190199&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+- Datenanalyse in der Physik (with A. Eichler, M. Kroner, C. Cotrini) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178564&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+
+### Previous courses
+
+At the university of Basel, I was teaching the following courses:
+
+- Grundlagen der Programmierung (in Java)
+- Einführung in die Programmierung (in Python)
+- Software Engineering
+- Machine learning for vision applications (with T. Vetter)
+- Probabilistic shape modelling
+- Machine intelligence (seminar, with V. Roth)
+- Things I learned in computer science (seminar, with C. Tschudin)
+- Programming with Monads (seminar, with C. Tschudin)
+- Structure and interpretation of computer programs (seminar, with C. Tschudin)
 
 
 ### Online courses 
 
-I taught the following online courses at the [University of Basel](https://dmi.unibas.ch)
+To complement my classes at the University of Basel, I developed the following online courses:
 
 - [Einführung in die Programmierung (mit Python, German)](https://dmi-programming.dmi.unibas.ch/eidp/)
 - [Grundlagen der Programmierung (mit Java, German)](https://dmi-programming.dmi.unibas.ch/gdp/)
