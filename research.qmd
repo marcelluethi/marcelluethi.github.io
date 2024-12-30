@@ -6,7 +6,7 @@ My research revolves around the question of how to model and quantify the variab
 using Bayesian approaches and the analysis-by-synthesis paradigm, with the goal of obtaining both useful prediction of partially observed structures as well as proper uncertainty quantification. 
 
 An important part of my research has always been to complement the algorithmic and theoretical models with 
-software that can be used in real world application. To this end, I am one of the core-developers and 
+software that can be used in real world applications. To this end, I am one of the core-developers and 
 maintainers of the [Scalismo](https://scalismo.rog) software, and open source software framework for 
 model based shape and image analysis. This framework has been used in a wide variety of commercial applications and 
 is since commercially supported by the company [Shapemeans](https://shapmeans.com).
@@ -44,7 +44,7 @@ A full list of my publications can be found on my [Google scholar profile](https
 
 * Ebert, L. C., Rahbani, D., Lüthi, M., Thali, M. J., Christensen, A. M., & Fliss, B. (2022). **Reconstruction of full femora from partial bone fragments for anthropological analyses using statistical shape modeling**. *Forensic Science International*
 
-* Schmutz, B., Lüthi, M., Schmutz-Leong, Y. K., Shulman, R., & Platt, S. (2021). Morphological analysis of Gissane’s angle utilising a statistical shape model of the calcaneus. Archives of orthopaedic and trauma surgery, 141, 937-945.
+* Schmutz, B., Lüthi, M., Schmutz-Leong, Y. K., Shulman, R., & Platt, S. (2021). **Morphological analysis of Gissane’s angle utilising a statistical shape model of the calcaneus.** Archives of orthopaedic and trauma surgery, 141, 937-945.
 
 * Madsen, D., Lüthi, M., Schneider, A., & Vetter, T. (2018). **Probabilistic joint face-skull modelling for facial reconstruction**, *Proceedings of the IEEE conference on computer vision and pattern recognition*.
 
