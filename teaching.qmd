@@ -22,10 +22,10 @@ and direct contact with students in focus.
 
 ### Current courses
 
-- Informatik I (with Andreas Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182735&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+- Informatik I (with A. Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182735&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
 - Informatik II (with Manuela Fischer) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=188270&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
-- Software Engineering (with Hermann Lehner and Malte Schwerhoff) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=181757&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
-- Data Science and Machine Learning (with Andreas Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=190199&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+- Software Engineering (with H. Lehner and M Schwerhoff) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=181757&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=de)
+- Data Science and Machine Learning (with A. Streich) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=190199&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
 - Datenanalyse in der Physik (with A. Eichler, M. Kroner, C. Cotrini) [(Course directory)](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178564&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
 
 ### Previous courses
@@ -35,17 +35,17 @@ At the university of Basel, I was teaching the following courses:
 - Grundlagen der Programmierung (in Java)
 - Einführung in die Programmierung (in Python)
 - Software Engineering
-- Machine learning for vision applications (with T. Vetter)
 - Probabilistic shape modelling
+- Algorithmen und Datenstrukturen (with G. Röger)
 - Machine intelligence (seminar, with V. Roth)
 - Things I learned in computer science (seminar, with C. Tschudin)
 - Programming with Monads (seminar, with C. Tschudin)
 - Structure and interpretation of computer programs (seminar, with C. Tschudin)
-
+- Machine learning for vision applications (with T. Vetter)
 
 ### Online courses 
 
-To complement my classes at the University of Basel, I developed the following online courses:
+To complement my classes at the University of Basel, I have developed the following online courses:
 
 - [Einführung in die Programmierung (mit Python, German)](https://dmi-programming.dmi.unibas.ch/eidp/)
 - [Grundlagen der Programmierung (mit Java, German)](https://dmi-programming.dmi.unibas.ch/gdp/)
