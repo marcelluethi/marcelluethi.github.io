@@ -11,13 +11,12 @@ As an educator, I would like to provide a course environment that encourages the
 students to actively explore and experiment with the material and to make the 
 barriers to experimentation as low as possible. 
 
-Being involved in all aspects of the course, not only designing the lessons, but also engaging with students during the learning process, is crucial. Direct contact with the students is essential for understanding their needs, the difficulties 
+Being involved in all aspects of the course and engaging with students during the learning process, is crucial. Only by interacting with students we can understand the needs, the difficulties 
 they face and from which parts they draw most value. This is especially important in the currently, rapidly changing
 teaching environment. More direct contact also establishes trust between students and teachers, which 
-I find essential for a productive learning environment. 
+is most important for a productive learning environment. 
 
-I found that the flipped classroom model can provide a useful framework for creating courses that put active learning 
-and direct contact with students in focus.  
+I found that the flipped classroom model can provide a useful framework for creating courses that put active learning and direct contact with students in focus. 
 
 
 ### Current courses
