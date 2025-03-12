@@ -5,10 +5,8 @@ title: "Teaching"
 ### Teaching philosophy
 
 I believe that what our job as educators is to create an environment in which 
-learning can take place. This environment may or may not include a traditional 
-classroom lecture, but that it is not the most important component. 
-As an educator, I would like to provide a course environment that encourages the 
-students to actively explore and experiment with the material and to make the 
+learning can take place. The focus of our attention should be to enable and facilitate learning
+rather than focusing narrowly on teaching. As an educator, I would like to provide a course environment that encourages the students to actively explore and experiment with the material and to make the 
 barriers to experimentation as low as possible. 
 
 Being involved in all aspects of the course and engaging with students during the learning process, is crucial. Only by interacting with students we can understand the needs, the difficulties 
@@ -16,7 +14,7 @@ they face and from which parts they draw most value. This is especially importan
 teaching environment. More direct contact also establishes trust between students and teachers, which 
 is most important for a productive learning environment. 
 
-I found that the flipped classroom model can provide a useful framework for creating courses that put active learning and direct contact with students in focus. 
+Technology is evolving at a rapid pace and with it come great opportunities but also possible impediments for student learning. I see it as an important part of my role to engage with new technologies and guide students regarding their use in the learning process. 
 
 
 ### Current courses
